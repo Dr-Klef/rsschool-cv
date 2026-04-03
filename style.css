@@ -1,3 +1,49 @@
-style{
-   
-};
+@font-face {
+  font-family:adobemyungjostd-medium;
+  src:url("Fonts/adobemyungjostd-medium.otf")
+}
+
+body {
+  font-family: adobemyungjostd-medium;
+  background-color: #721E1E;
+  color: #E2D797;
+  line-height: 30px;
+}
+
+li {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1{
+    padding-left:30%; 
+    font-size:50px;
+    font-style: italic;
+}
+
+.Heading{
+    font-size:30px;
+}
+
+.PhotoProfile{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10%;
+ }
+
+section {
+  width: 40%;
+}
+
+div{
+     display: flex;
+     width: 10%;
+}
