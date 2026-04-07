@@ -55,7 +55,7 @@ p {
   justify-content:center;
   margin:0 auto;
   max-width: 1500px;
-  gap:10%;
+  gap:15%;
   
 }
 
@@ -70,7 +70,7 @@ p {
 }
 
 .Block.Aboutme{
-width: 700px;
+width: 740px;
 }
 
 .BlockCode{
@@ -93,7 +93,7 @@ margin-left:30% ;
 
 .PhotoProfile{
   padding: 0px;
-  margin-top: 5%;
+  margin-top: 4%;
 }
 
 
